@@ -1,0 +1,9 @@
+
+
+This is sample Java and Arduino code for driving a TransLux datawall board.
+
+https://picasaweb.google.com/103926016078189342841/TransLuxDisplay
+
+I believe pins 1,3, 5 on the trans lux J2 connector were wired to pins 2,3,4 on the AVR168. 
+
+This code is released under the Apache 2.0 license.
