@@ -4,6 +4,10 @@ This is sample Java and Arduino code for driving a TransLux datawall board.
 
 https://goo.gl/photos/TfGjPaihxif2U6dF7
 
-I believe pins 1,3,5 on the trans lux J2 connector were wired to pins 2,3,4 on the AVR168. 
+| Trans-Lux J2  | AVR168      | Purpose            |
+| ------------- |-------------|--------------------|
+| pin 1         | pin 2       | clock              |
+| pin 3         | pin 3       | data               |
+| pin 6         | pin 4       | enable (high==off) |
 
 This code is released under the Apache 2.0 license.
