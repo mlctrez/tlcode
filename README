@@ -11,6 +11,6 @@ https://goo.gl/photos/TfGjPaihxif2U6dF7
 | pin 6         | pin 4       | enable (high==off) |
 
 The `trans_lux.sch` is an eagle file of a portion of the board. By no means is it accurate or complete. 
-It was used only to determine the protocol and timing of the input connectors.
+It was used only to determine the which pins were clock, data, and enable.
 
 This code is released under the Apache 2.0 license.
